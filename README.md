@@ -2,4 +2,4 @@
 
 # Hello There! I'm Scott Normore!
 
-### I am a recent graduate from Southern Alberta Institute of Technology and a previous graduate from Memorial University who is excited to break into the industry. Experienced in full stack development, I have a passion for programming and tinkering with new technologies.
+### Welcome to my github profile page! Feel free to take a look at projects that I have contributed/created.
